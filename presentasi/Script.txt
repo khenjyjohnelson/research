@@ -1,0 +1,337 @@
+ 
+
+
+Presentasi Teknik Terbaru Programming v1.0
+(For Limited Purpose Only)
+
+
+
+
+Khenjy Johnelson
+Semester 4
+Universitas Universal
+
+
+
+
+
+
+19 Juni 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kata Pengantar
+
+Terimakasih kepada:
+
+Pak Yodi
+Karena telah menginisasi projek website perpustakaan serta memberi feedback untuk projek saya
+
+Ehren Visteano
+Karena telah mengizinkan saya untuk masuk ke tim pengembangan website perpustakaan, yang membuat saya dapat merealisasikan ide saya
+
+Ko William
+Karena telah membimbing saya mempelajari cara kerja POSTMAN
+
+Ko Yuriko, Ko Erwin, dan lainnya
+Karena telah membimbing saya dalam projek perpustakaan
+
+ChatGPT
+Karena telah membantu saya menemukan dan mengembangkan fitur ini
+
+
+
+
+
+
+
+Pendahuluan
+Awal mendapat ide: 
+Akhir Desember 2023
+
+Pertama kali interview dengan dosen: 
+Awal Januari 2024
+
+Perihal: 
+Apakah Teknik saya sudah menggunakan OOP
+
+Projek: 
+Aplikasi pembayaran spp yang menggunakan framework codeigniter 3.14 dan masih menggunakan kode spageti (berbelit-belit)
+
+Feedback saat itu: 
+Cara ini bisa digunakan untuk projek skala kecil, namun untuk skala besar masih belum bisa
+
+Pertama kali dikenalkan dengan POSTMAN:
+Februari - Maret 2024
+
+Pengembangan aplikasi hotel dan mencari Teknik baru:
+Maret 2024 - April 2024
+
+Pertama kali menemukan Teknik Baru:
+April 2024
+
+Expansi fitur besar-besaran:
+April-Juni 2024
+
+Pertama kali hosting website:
+Awal Mei 2024
+
+Planning buat ke depannya:
+Juni 2024 - ???
+
+
+
+
+
+
+
+Pembahasan
+
+Kesalahan cara programming kebanyakan: 
+1. Semua harus input manual
+2. Sulit buat mengganti ide
+3. Waktu development untuk CRUD sangat lama
+4. Unit testing sangat sulit dan membosankan 
+5. Banyak debug yang perlu dilakukan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programmer bukanlah kuli yang pakai keyboard, programmer adalah problem solver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saya mengembangkan sebuah Teknik dalam waktu liburannya di bulan Maret - April 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hal yang disadari:
+Teknik ini belum ditemukan di forum atau artikel manapun (sejauh research dari saya)
+
+
+
+
+
+
+
+
+
+
+
+
+Introducing Omnitags
+
+Omnitags bukanlah framework, melainkan mindset
+
+Mindset bahwa semuanya bisa jauh lebih efisien jika kita mengejarnya (encapsulation)
+
+Omnitags dapat membuat kita mengontrol waktu development
+
+Tidak perlu menghafal nama tabel maupun field tabel
+
+Input sekali, semua langsung kena
+
+Less HARD CODING, more SOFT CODING
+
+Tidak ada kata takut ketika mencari bug atau modifikasi kode
+
+Semua variabel dapat dianalisa dengan mudah
+
+Omnitags membuat kita lebih sedikit berpikir tentang hal-hal kecil (nama variabel, functions, method, dll) dan membuat kita fokus pada hal yang penting (algoritma)
+
+Membantu Software Development Life Cycle menjadi lebih AGILE
+
+
+
+ 
+
+
+
+
+
+
+
+
+Key points dari Omnitags
+1. Encapsulation is key
+2. Urutan tabel dan field dapat dimodifikasi
+3. Isi dari variabel dapat diubah sesuka hati asal masih sama dengan nama tabel dan field di database
+4. Kata-kata kunci tersebut dapat dihide dengan routes
+5. Performance website tidak berpengaruh (malah lebih cepat)
+6. Less hard code, more soft code
+7. Programming jadi lebih AGILE
+8. Input sekali, semua variabel langsung kena
+9. key point lainnya yang mungkin belum saya sampaikan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Target yang pernah diraih
+1. Aplikasi CRUD selesai dalam waktu singkat
+	Rata-rata inisiasi sampai halaman beranda dan admin adalah 30 menit (rata-rata programmer lainnya bisa sampai 1 jam lebih meskipun menggunakan projek lama copy ke jadi projek baru)
+
+	Jika sudah memiliki ide, database, dan file JSON, waktu inisiasi bisa jadi 1-15 menit saja
+2. Programming tidak terlalu melelahkan lagi untuk dimulai
+3. Tidak menonton tutorial Youtube tentang cara implementasi Teknik ini selama 2-3 bulan terakhir (karena saya juga yang menemukan), hanya menggunakan chatGPT saja untuk membantu yang diperlukan saja
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kelebihan Omnitags
+1. Inisiasi mudah dan tidak ribet (tidak perlu tahu cmd)
+2. Waktu development jadi singkat
+3. kelebihan-kelebihan lainnya
+
+Kekurangan
+1. Tidak boleh merubah nama file json (app.postman_environment.json). Jika ingin merubah nama file JSON tersebut, maka perlu merubah kodingan yang memanggilnya juga. Jika tidak dilakukan, website bisa loading cukup lama hingga memunculkan error.
+2. itu saja
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penutup
+
+Plan buat ke depannya:
+1. Implementasi ke berbagai framework (mulai dari Laravel)
+2. Melakukan seminar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sekian 
+
+Mohon maaf jika ada kesalahan selama berkata-kata
+
+Terima kasih
+
+Ditunggu feedbacknya :)
+
+
+
+
+
+
+

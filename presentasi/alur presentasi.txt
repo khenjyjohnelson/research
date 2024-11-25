@@ -1,0 +1,7 @@
+Alur presentasi 
+
+Tanyakan ke pak Yodi manakah yg mau dimulai dulu:
+1. Background
+2. Demo aplikasi hotel
+3. Cara kerja kode aplikasi dan POSTMAN
+

@@ -1,0 +1,46 @@
+Omnitags Tutorial v1.0
+
+Instalasi
+
+1. Copy folder hotel dan pindahkan ke tempat yang sesuai
+2. Ganti nama folder
+3. Buka folder di vscode
+
+Step menggunakan framework Omnitags
+1. Buka assets/json/app.postman_environment.json
+2. Buka Find All atau Ctrl + Shift + F
+3. Masukkan nama database lama (school_ukk_hotel) dan ganti dengan nama database baru, klik Replace All
+4. Masukkan lokasi folder lama (me/hotel) dan ganti dengan folder baru, klik Replace All
+5. Modifikasi isi dari tabel_e1 sampai table_f4
+6. Modifikasi beberapa bagian dari MVC dengan mencari keyword seperti tabel_e3 dan cari beberapa file dari folder:
+	config
+	routes.php
+
+	controllers
+	1. Omnitags.php
+	2. Welcome.php
+	3. file controller lainnya
+
+	models
+	(modifikasi jika querynya belum tepat saja)
+
+	views
+	1. menu.php
+	2. dashboard.php
+	3. footer.php
+	4. file views lainnya
+
+7. Jalankan XAMPP/Laragon
+8. Buka link project
+9. Selamat menggunakan aplikasi
+
+Cara membuat unit testing
+
+1. Buka Aplikasi POSTMAN
+2. Buka workspace yang sesuai
+3. Buatlah folder collections jika belum ada
+4. Buka Environments
+5. Export isi dari app.postman_environment.json ke POSTMAN
+6. Copy folder Omnitag Project
+7. Modifikasi struktur/posisi dan data dari record yang dibutuhkan
+8. Selamat testing
