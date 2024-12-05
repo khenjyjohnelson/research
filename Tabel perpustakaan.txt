@@ -1,0 +1,159 @@
+Ini diteruskan dari Tabel spp.txt
+
+Tables to drop
+
+Tables to be changed or expanded
+petugas (from user)
+
+
+Table to rename
+faskamar t1
+id_faskamar
+tipe
+nama
+img
+
+history t2
+id_history
+id_pesanan
+id_user
+pemesan
+email
+hp
+tamu
+id_tipe
+jlh
+harga_total
+cek_in
+cek_out
+no_kamar
+tgl_perubahan
+user_aktif
+
+fashotel t3
+id_fashotel
+nama
+keterangan
+img
+
+masyarakat -> petugas t4
+id_petugas
+nama
+email
+hp
+img
+role
+poin
+
+pengaduan -> kamar t5
+no_kamar
+id_tipe
+id_pesanan
+status
+keterangan
+
+spp-> tipe_kamar t6
+id_tipe
+tipe
+img
+stok
+harga
+
+pengaturan t7
+id
+nama
+favicon
+logo
+foto
+alamat
+email
+hp
+metadesc
+fb
+ig
+
+tanggapan -> pesanan t8
+id_pesanan
+id_user
+pemesan
+email
+hp
+tamu
+id_tipe
+jlh
+harga_total
+cek_in
+cek_out
+status
+no_kamar
+
+user -> users t9
+id_user  to id
+nama
+email
+password
+hp
+level
+login_count
+
+transaksi
+id_transaksi
+id_user
+email
+id_pesanan
+metode
+bayar
+tgl_transaksi
+
+operations
+id_operasional
+no_kamar
+id_user
+id_petugas
+keterangan
+tgl_perubahan
+
+
+
+
+
+###
+Lines that needs to be replaced
+$this->tabel2
+to
+$this->aliases['tabel2']
+
+
+
+'tabel2' => $
+to
+'tbl2' => $
+
+
+
+$this->tabel2
+to 
+$this->aliases['tabel2_alias']
+
+
+
+$this->tabel2_field1
+to
+$this->aliases['tabel2_field1']
+
+<?= site_url('
+to
+<?= site_url($
+
+
+###
+Things to find
+name="
+
+<?= site_url(
+
+
+
+###
+Things to move
+$this->declarew()
