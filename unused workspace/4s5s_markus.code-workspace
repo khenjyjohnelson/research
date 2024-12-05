@@ -1,0 +1,953 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"color",
+				"background-color\tproperty"
+			],
+			[
+				"jumbor",
+				"jumbotron-fluid \tBootstrap 4.4"
+			],
+			[
+				"parent",
+				"class_parents"
+			],
+			[
+				"m-m",
+				"m-md-3 \tBootstrap 4.4"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"contai",
+				"container \tBootstrap 4.4"
+			],
+			[
+				"zodiak",
+				"Zodiak_model"
+			],
+			[
+				"m-md",
+				"m-md-2 \tBootstrap 4.4"
+			],
+			[
+				"ml-",
+				"m-lg-3 \tBootstrap 4.4"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 4.4"
+			],
+			[
+				"site",
+				"site\tCI - URL Helper - site_url"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"tampil",
+				"tampil_data"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"delete",
+				"delete_editor"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"right",
+				"float-md-right \tBootstrap 4.4"
+			],
+			[
+				"rigt",
+				"float-right \tBootstrap 4.4"
+			],
+			[
+				"left",
+				"float-left \tBootstrap 4.4"
+			],
+			[
+				"cont",
+				"container-fluid \tBootstrap 4.4"
+			],
+			[
+				"off",
+				"offset-2 \tBootstrap 4.4"
+			],
+			[
+				"form-",
+				"form-control \tBootstrap 4.4"
+			],
+			[
+				"textb",
+				"text-break \tBootstrap 4.4"
+			],
+			[
+				"btn",
+				"btn-block \tBootstrap 4 Class"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"IsiOnlen_",
+				"IsiOnlen_Form1"
+			],
+			[
+				"about",
+				"20201001_AboutUs_ProgWeb"
+			],
+			[
+				"isionel",
+				"IsiOnlen_Home"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"abou",
+				"IsiOnlen_AboutUs"
+			],
+			[
+				"form1",
+				"IsiOnlen_Form1"
+			],
+			[
+				"home",
+				"IsiOnlen_Home"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"alig",
+				"align-items-start \tBootstrap 4 Class"
+			],
+			[
+				"my",
+				"my-4 \tBootstrap 4 Class"
+			],
+			[
+				"fo",
+				"for\tAttr"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"col",
+				"col \tBootstrap 4 Class"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"justi",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"text-",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"align-content",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"jus",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"butt",
+				"ButtonDaftar"
+			],
+			[
+				"text-dar",
+				"text-dark \tBootstrap 4 Class"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"border-da",
+				"border-dark \tBootstrap 4 Class"
+			],
+			[
+				"jum",
+				"jumbotron \tBootstrap 4 Class"
+			],
+			[
+				"navbar-expa",
+				"navbar-expand-lg \tBootstrap 4 Class"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Form",
+				"FormControlKelDesa"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"f",
+				"for\tAttr"
+			],
+			[
+				"cus",
+				"custom-file \tBootstrap 4 Class"
+			],
+			[
+				"nama",
+				"namabelakang"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"form-c",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"Fro",
+				"FormControlName"
+			],
+			[
+				"bg-da",
+				"bg-dark \tBootstrap 4 Class"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"makanan",
+				"makananpokok"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"fixe",
+				"fixed-top \tBootstrap 4 Class"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"end",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"align-co",
+				"align-content-end \tBootstrap 4 Class"
+			],
+			[
+				"text-decoratio",
+				"text-decoration\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"text-st",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"con",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"align-ite",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"ro",
+				"row \tBootstrap 4 Class"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"botto",
+				"fixed-bottom \tBootstrap 4 Class"
+			],
+			[
+				"paddin-",
+				"padding-right\tproperty"
+			],
+			[
+				"list-in",
+				"list-inline \tBootstrap 4 Class"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"flo",
+				"float-right \tBootstrap 4 Class"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"mt",
+				"mt-2 \tBootstrap 4 Class"
+			],
+			[
+				"page",
+				"page-link \tBootstrap 4 Class"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"rig",
+				"float-sm-right \tBootstrap 4 Class"
+			],
+			[
+				"navbar-ri",
+				"navbar-toggler-right \tBootstrap 4 Class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/4sehat5sempurna/application/controllers/Main.php",
+			"settings":
+			{
+				"buffer_size": 3384,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/4sehat5sempurna/application/views/admin/admin.php",
+			"settings":
+			{
+				"buffer_size": 1571,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/4sehat5sempurna/application/views/public/about.php",
+			"settings":
+			{
+				"buffer_size": 3144,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/4sehat5sempurna/application/views/public/home.php",
+			"settings":
+			{
+				"buffer_size": 14976,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/4sehat5sempurna/application/views/public/index.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: packa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: package",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"plugins",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/4sehat5sempurna",
+		"/C/xampp/htdocs/4sehat5sempurna/application",
+		"/C/xampp/htdocs/4sehat5sempurna/application/controllers",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/admin",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/public",
+		"/E/4sehat5sempurna/4sehat5sempurna data"
+	],
+	"file_history":
+	[
+		"/C/Users/khenj/Desktop/tokobuah.sublime-workspace",
+		"/C/Users/khenj/Desktop/tokobuah.sublime-project",
+		"/C/xampp/htdocs/tokobuah/application/controllers/admin/Login.php",
+		"/C/xampp/htdocs/tokobuah/application/controllers/admin/Overview.php",
+		"/C/xampp/htdocs/tokobuah/system/core/Loader.php",
+		"/C/xampp/htdocs/astrosearch/application/views/form/form.php",
+		"/C/xampp/htdocs/astrosearch/application/controllers/form/Output.php",
+		"/C/xampp/htdocs/tokobuah/application/views/admin/product/new_form.php",
+		"/C/xampp/htdocs/tokobuah/application/models/Product_model.php",
+		"/C/xampp/htdocs/tokobuah/application/views/admin/_partials/head.php",
+		"/C/xampp/htdocs/tokobuah/application/views/contact.php",
+		"/C/xampp/htdocs/tokobuah/application/views/about.php",
+		"/C/xampp/htdocs/tokobuah/css/sb-admin.css",
+		"/C/xampp/htdocs/noirr/application/controllers/bill/Bill.php",
+		"/C/xampp/htdocs/noirr/application/controllers/merch/Merch.php",
+		"/C/xampp/htdocs/noirr/application/controllers/member/Member.php",
+		"/C/xampp/htdocs/noirr/application/views/member/form/form_checkout.php",
+		"/C/xampp/htdocs/noirr/application/views/member/table/table_favorites.php",
+		"/C/xampp/htdocs/noirr/README.md",
+		"/C/xampp/htdocs/noirr/application/assets/css/bootstrap.css",
+		"/C/xampp/htdocs/noirr/application/assets/css/noirr.css.map",
+		"/C/xampp/htdocs/noirr/application/views/admin/table/table_member.php",
+		"/C/xampp/htdocs/noirr/application/views/admin/table/table_merch.php",
+		"/C/xampp/htdocs/noirr/application/models/Bill_mdl.php",
+		"/C/xampp/htdocs/noirr/application/models/Merch_mdl.php",
+		"/C/xampp/htdocs/noirr/application/models/Member_mdl.php",
+		"/C/xampp/htdocs/noirr/application/views/admin/table/table_bill.php",
+		"/C/xampp/htdocs/noirr/application/views/member/form/form_favorites.php",
+		"/C/xampp/htdocs/noirr/application/views/template/header.php",
+		"/C/xampp/htdocs/noirr/application/views/admin/form/form_editbill.php",
+		"/C/xampp/htdocs/noirr/application/views/public/form/form_login.php",
+		"/C/xampp/htdocs/noirr/application/views/public/form/form_signup.php",
+		"/C/xampp/htdocs/noirr/application/views/admin/form/form_editmember.php",
+		"/C/xampp/htdocs/noirr/application/views/admin/form/form_editmerch.php",
+		"/C/xampp/htdocs/noirr/application/controllers/admin/Productadm.php",
+		"/C/xampp/htdocs/noirr/application/controllers/admin/Memberadm.php",
+		"/C/xampp/htdocs/noirr/application/controllers/bill/Checkout.php",
+		"/C/xampp/htdocs/noirr/application/controllers/Main.php",
+		"/C/xampp/htdocs/noirr/application/views/template/headeradm.php",
+		"/C/xampp/htdocs/noirr/application/views/template/footeradm.php",
+		"/C/xampp/htdocs/noirr/application/views/admin/data/data_merchsold.php",
+		"/C/xampp/htdocs/noirr/application/views/admin/data/data_subscriber.php",
+		"/C/xampp/htdocs/noirr/application/views/table/tablemember.php",
+		"/C/xampp/htdocs/noirr/application/controllers/form/Output.php",
+		"/C/xampp/htdocs/noirr/application/controllers/form/Input.php",
+		"/C/xampp/htdocs/noirr/application/controllers/Product.php",
+		"/C/xampp/htdocs/noirr/application/views/template/footer.php",
+		"/C/xampp/htdocs/noirr/application/views/public/index.php",
+		"/C/xampp/htdocs/noirr/application/views/table",
+		"/C/xampp/htdocs/noirr/application/views/public/merch.php",
+		"/C/xampp/htdocs/noirr/application/views/member/member.php",
+		"/C/xampp/htdocs/noirr/application/views/public/member.php",
+		"/C/xampp/htdocs/noirr/application/views/member/checkout.php",
+		"/C/xampp/htdocs/noirr/application/views/member/payoutput.php",
+		"/C/xampp/htdocs/noirr/application/views/public/login.php",
+		"/C/xampp/htdocs/noirr/application/views/public/signup.php",
+		"/C/xampp/htdocs/noirr/application/views/public/error.php",
+		"/C/xampp/htdocs/noirr/application/views/public/about.php",
+		"/C/xampp/htdocs/noirr/application/controllers/bill/bill.php",
+		"/C/xampp/htdocs/noirr/application/views/table/tablemerch.php",
+		"/C/xampp/htdocs/noirr/application/views/table/tablebill.php",
+		"/C/xampp/htdocs/webci/application/views/tempelate/header.php",
+		"/C/xampp/htdocs/webci/application/views/tempelate/footer.php",
+		"/C/xampp/htdocs/webci/application/views/tempelate/headeradm.php",
+		"/C/xampp/htdocs/webci/application/views/tempelate/footeradm.php",
+		"/C/xampp/htdocs/webci/application/controllers/index.html",
+		"/C/xampp/htdocs/4sehat5sempurna/application/controllers/blog/Blog.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/controllers/Main.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/editor/editor.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/controllers/viewer/Viewer.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/models/Blog_mdl.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/models/Editor_mdl.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/admin/admin.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/controllers/komentar/Komentar.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/controllers/editor/Editor.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/config/database.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/controllers/Welcome.php",
+		"/C/Users/khenj/Desktop/tesgit/index.php",
+		"/C/xampp/htdocs/noirr/application/controllers/Admin/Product.php",
+		"/C/xampp/htdocs/astrosearch/application/controllers/form/Form.php",
+		"/C/xampp/htdocs/astrosearch/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/astrosearch/application/models/Zodiak_model.php",
+		"/C/xampp/htdocs/astrosearch/application/views/form/output.php",
+		"/C/xampp/htdocs/astrosearch/application/config/config.php",
+		"/C/xampp/htdocs/astrosearch/application/config/routes.php",
+		"/C/xampp/htdocs/astrosearch/application/config/autoload.php",
+		"/C/xampp/htdocs/astrosearch/application/views/user/home.php",
+		"/C/xampp/htdocs/tokobuah/application/views/admin/login_page.php",
+		"/C/xampp/htdocs/astrosearch/application/controllers/zodiak/Zodiak.php",
+		"/C/xampp/htdocs/astrosearch/application/controllers/Login.php",
+		"/C/xampp/htdocs/astrosearch/application/controllers/user/User.php",
+		"/C/xampp/htdocs/astrosearch/index.php",
+		"/C/xampp/htdocs/astrosearch/application/views/welcome_message.php",
+		"/C/xampp/htdocs/astrosearch/application/config/database.php",
+		"/C/xampp/htdocs/astrosearch/application/views/user/about.php",
+		"/C/xampp/htdocs/astrosearch/application/models/User_model.php",
+		"/C/xampp/htdocs/astrosearch/application/controllers/User.php",
+		"/C/xampp/htdocs/astrosearch/application/controllers/Zodiak/Zodiak.php",
+		"/C/xampp/htdocs/tokobuah/application/config/database.php",
+		"/C/xampp/htdocs/petanikode/application/config/database.php",
+		"/C/xampp/htdocs/petanikode/application/views/welcome_message.php",
+		"/C/xampp/htdocs/petanikode/application/config/routes.php",
+		"/C/xampp/htdocs/petanikode/application/models/Product_model.php",
+		"/C/xampp/htdocs/petanikode/application/controllers/admin/Products.php",
+		"/C/xampp/htdocs/petanikode/application/views/admin/product/edit_form.php",
+		"/C/xampp/htdocs/petanikode/application/config/config.php",
+		"/C/xampp/htdocs/belajarphp/pengenalan.php",
+		"/C/xampp/htdocs/belajarphp/punyamarkus.php",
+		"/C/Users/khenj/Downloads/Documents/kohtryui.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/admin/data/data_blog.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/config/autoload.php",
+		"/C/xampp/htdocs/noirr/application/views/v_input.php",
+		"/C/xampp/htdocs/noirr/application/config/database.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/admin/data/tabel_blog",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/admin/index.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/admin/data/tabel_editor.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/models/EditorMdl.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/admin/tabel_komentar",
+		"/C/xampp/htdocs/4sehat5sempurna/application/controllers/login.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/config/routes.php",
+		"/C/xampp/htdocs/berita-web/application/config/routes.php",
+		"/C/Users/khenj/Desktop/kohtryui.php",
+		"/C/xampp/htdocs/webci/application/config/config.php",
+		"/C/xampp/htdocs/webci/application/controllers/Latihan.php",
+		"/C/xampp/htdocs/webci/application/config/routes.php",
+		"/C/xampp/htdocs/webci/application/config/autoload.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/v_input.php",
+		"/C/xampp/htdocs/4sehat5sempurna/application/views/makananpokok.php"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\4sehat5sempurna"
+		},
+		{
+			"path": "E:\\4sehat5sempurna\\4sehat5sempurna data"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/4sehat5sempurna/application/controllers/Main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/4sehat5sempurna/application/views/admin/admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/4sehat5sempurna/application/views/public/about.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/4sehat5sempurna/application/views/public/home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/4sehat5sempurna/application/views/public/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
