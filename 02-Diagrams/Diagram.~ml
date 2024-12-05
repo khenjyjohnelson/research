@@ -18677,7 +18677,6 @@
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="NodeLabelView" guid="gJUQG6x+Z0KahhCbIfp8IwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">5</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">235619449019234</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">35</XPD:ATTR>
@@ -18685,7 +18684,6 @@
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="NodeLabelView" guid="Njoa4eOmzkG/1mM2byNJBQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">5</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">-235619449019234</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">20</XPD:ATTR>
@@ -18763,7 +18761,6 @@
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="NodeLabelView" guid="YtduogjnCkSyJYeUJ/OzcwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">5</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">235619449019234</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">35</XPD:ATTR>
@@ -18771,7 +18768,6 @@
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="NodeLabelView" guid="0xfOrdmPVEuxEfHFCZKAwQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">5</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">-235619449019234</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">20</XPD:ATTR>
@@ -18848,7 +18844,6 @@
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="NodeLabelView" guid="kxIznsxm5ESgs4Rm48WYxAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">5</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">235619449019234</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">35</XPD:ATTR>
@@ -18856,7 +18851,6 @@
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="NodeLabelView" guid="eyuX8RLpfUCPwLiNozUtjwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">5</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">-235619449019234</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">20</XPD:ATTR>
